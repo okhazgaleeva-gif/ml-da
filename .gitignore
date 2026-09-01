@@ -1,0 +1,14 @@
+# Эталонные решения для преподавателя
+*_solution.ipynb
+**/solutions/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment and OS
+.env
+.DS_Store
